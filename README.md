@@ -1,2 +1,2 @@
-# lgy.github.com
+# lidayou.github.com
 homepage
